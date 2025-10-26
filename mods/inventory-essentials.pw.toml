@@ -1,0 +1,13 @@
+name = "Inventory Essentials"
+filename = "inventoryessentials-fabric-1.21.10-21.10.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Boon8xwi/versions/akTDOlpD/inventoryessentials-fabric-1.21.10-21.10.1.jar"
+hash-format = "sha512"
+hash = "773620db925eec038b4de65e350342b0eeee13cee395f1e39ebe05e9fb4732881a6461f03ea2e1bb7699e520cc935049ea9edfa9a022bbeca926fcaced889901"
+
+[update]
+[update.modrinth]
+mod-id = "Boon8xwi"
+version = "akTDOlpD"

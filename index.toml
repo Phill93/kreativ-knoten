@@ -1,0 +1,176 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "659f7b849f370718cc5216c3de0fdc4863391f9889d00ebd4ccef8274ee7026d"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "492b3c59c096542b5ca733e5a19f66c870deaa6a98a409ee8497fe50d39ac7db"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "639d1e087044f56c3d414841a577d00030e6f5c057540d9a33f4c1cde98e0437"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "24737d4ec343e590df0fb597f52bd792557300b659b828492bfd51d63c1fe52d"
+metafile = true
+
+[[files]]
+file = "mods/bluemapvisabilitytoggle.pw.toml"
+hash = "d3a303055be459f77bd8f9b55a8921db51508d01ea756ae4ece66e002a1bc71d"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "64badefe03082699f587274a31d1f0793583a4d88aac8ea2226162f80783fb52"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "ab92afc9c86b581a10eb4e8dc52a3640deeb6d03fb662f6f53b2a21e87d74405"
+metafile = true
+
+[[files]]
+file = "mods/energized-power.pw.toml"
+hash = "4bd80b9cce3f982c0e09e6c51ac704d7e5690a85a90cdcb0b4112c6439e581ab"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "b908cccddb4f18a5f570a0201b7a6f7f6775f9fcb0dcd0a1a0d7600ff1d7c7f3"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "9094b41641d984e89087d9c24fef38be2ccb0db6e294be3fface3716c461fc1e"
+metafile = true
+
+[[files]]
+file = "mods/inventory-management.pw.toml"
+hash = "b50651c2c054ff67985150b5a80198fda6606545f7d68e92548d1a7fea4c0914"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "bdca3c9a098de3c08f996b214cf10ece27351f5f7871c30ff826a2f404daba33"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbook.pw.toml"
+hash = "930e0679ed773d180a750de21554c39030aabeabb5c49fb98fd1d17819aa1269"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "ed9d0d5d4078c137900006321d35515cee46058b92df1128ea37cda3e5e1bb2b"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "78eb7a4883effdbab78ff513fba684e62783bad2ef54b1aeef0fe584af490c67"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "d9999ebfa59a092f278d6b03abffe3ff7f9d039ae6680d4d0e2f777e8664ea99"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "012898817d8b30563579014b87476c865e0e5a4ebb267f44a0fdc2af3bc6dac3"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "120c3328d887e2961a288dd78aad828b515262ee2c994f463f16abec919c11b7"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "b30c3b7e15aa8c78fda4cfeac5484ea603934afc88579627fed23dfc4a68dbdf"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "ce1b6ef9f766026fbaf1cf5e23ff5f80d16b9ffab806f3cbc9ad3d824e03b20b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "788ecd207be847c554cc9df527c506875869a7fcf3ac78c42fa5fba49c428b19"
+metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "717dadb9d7b3ba4955a4c81630fc584f1584b3a4104f92144e2a83eda0c61783"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "e033f0e4ccdf7afd9ae2791b5559d30487b271d690c37698bc512f11ff07687a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "c1166163c44561f41e925654c4f018a60a97173077c88c86a8944a4fae503225"
+metafile = true
+
+[[files]]
+file = "mods/maplink.pw.toml"
+hash = "c6aa76ea95a732ce8a86dc1a87dd8380bd1a5e458eb9dbee28d48f5a91b05a18"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
+metafile = true
+
+[[files]]
+file = "mods/multiworld.pw.toml"
+hash = "d4e98c42f972d33c0f85ab984d98fd28fa839476af602dd37b9d59f5eecea49e"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "42a73228a2e7ddd0a2ebba1e2a03dec5dbf4605854ec89c05f7e1374baffeae5"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "e8c961dbadf2dde334c857d0b42a6c6452aa77a146cf80d4febf7f46e4ac2ef6"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "dba564c761870715c46e527e182ece9d0c50ae96c8c4e3af3f2b567e2816565d"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "36a043532ef4eff54cc7252536f54f074067f82170572276a5940f127757ffb7"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "993390d4661a77aa83c8416f75addfccaf7cee0a7a7311a21742b2036700b5ac"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "53c8bc02c9b10610c43fc29127039036217e33a95ab2ea2d6ac291987266ef89"
+metafile = true
