@@ -45,6 +45,16 @@ hash = "ab92afc9c86b581a10eb4e8dc52a3640deeb6d03fb662f6f53b2a21e87d74405"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "3d24d58b2caf4fd73d76b2d734a1d06490994d5d38177376e6f5d8d9f8fb87e0"
+metafile = true
+
+[[files]]
+file = "mods/compact-help-command.pw.toml"
+hash = "83e6eab6cf3a22c763dbb077b8ee8d41eef62a2f9530080fd626aed61f402581"
+metafile = true
+
+[[files]]
 file = "mods/energized-power.pw.toml"
 hash = "4bd80b9cce3f982c0e09e6c51ac704d7e5690a85a90cdcb0b4112c6439e581ab"
 metafile = true
@@ -82,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "78eb7a4883effdbab78ff513fba684e62783bad2ef54b1aeef0fe584af490c67"
+metafile = true
+
+[[files]]
+file = "mods/luckpermsplaceholderapi.pw.toml"
+hash = "f445d70bba611df11024072fc9d4f6f6841e0067445985b55cf2a09d8cd4f34c"
 metafile = true
 
 [[files]]
@@ -152,6 +167,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "e8c961dbadf2dde334c857d0b42a6c6452aa77a146cf80d4febf7f46e4ac2ef6"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "b14b41445fb21e4e2fc0c3ec1dd289afead8e75abce76fa6e0c2256585627514"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "fcc4f588960a66fb5182ea2ce53d9b184d43c1511aa3dfc12af240b74d00812a"
 metafile = true
 
 [[files]]
