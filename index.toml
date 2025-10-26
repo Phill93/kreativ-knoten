@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/modmenu.json"
+hash = "1c35cd3fc90d49ec0b369924ad85905be05d8fde2499be7f769f6847f008c0c8"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
 metafile = true
