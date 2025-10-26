@@ -130,11 +130,6 @@ hash = "c1166163c44561f41e925654c4f018a60a97173077c88c86a8944a4fae503225"
 metafile = true
 
 [[files]]
-file = "mods/maplink.pw.toml"
-hash = "c6aa76ea95a732ce8a86dc1a87dd8380bd1a5e458eb9dbee28d48f5a91b05a18"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
 metafile = true
