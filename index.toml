@@ -155,11 +155,6 @@ hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
 metafile = true
 
 [[files]]
-file = "mods/multiworld.pw.toml"
-hash = "d4e98c42f972d33c0f85ab984d98fd28fa839476af602dd37b9d59f5eecea49e"
-metafile = true
-
-[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
 metafile = true
