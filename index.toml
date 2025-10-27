@@ -65,11 +65,6 @@ hash = "b908cccddb4f18a5f570a0201b7a6f7f6775f9fcb0dcd0a1a0d7600ff1d7c7f3"
 metafile = true
 
 [[files]]
-file = "mods/icommon.pw.toml"
-hash = "6ce5a9544bd6e5d1e551b910e1a4d542bd6b1344babd291a6ab21713fd08be86"
-metafile = true
-
-[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "9094b41641d984e89087d9c24fef38be2ccb0db6e294be3fface3716c461fc1e"
 metafile = true
