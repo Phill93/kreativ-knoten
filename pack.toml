@@ -1,12 +1,12 @@
 name = "Kreativ Knoten"
 author = "Lurky"
-version = "0.1.4"
+version = "0.1.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b687f574ff4047c33e2bfb8bb902bd1ad19e3b8d768b1049602096e4ef17b718"
+hash = "2b6aa9b59b4e9429db3b98d1b4c9d9c4ad142af12a3793d22442848ab95b4011"
 
 [versions]
 fabric = "0.17.3"
