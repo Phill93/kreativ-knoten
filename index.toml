@@ -35,6 +35,11 @@ hash = "d3a303055be459f77bd8f9b55a8921db51508d01ea756ae4ece66e002a1bc71d"
 metafile = true
 
 [[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "cf8b8ee9b5c3d3dbe28c2b6a46f500af3765d4fbbd4146b7c766850809a7c4f8"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "64badefe03082699f587274a31d1f0793583a4d88aac8ea2226162f80783fb52"
 metafile = true
@@ -52,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/compact-help-command.pw.toml"
 hash = "83e6eab6cf3a22c763dbb077b8ee8d41eef62a2f9530080fd626aed61f402581"
+metafile = true
+
+[[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "8691ea7075e76c17a637af2fc542b1b17db618b1c6d5a525b8e2fdec39e6fb5a"
 metafile = true
 
 [[files]]
