@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/energizedpower/common.conf"
+hash = "82b138b6eef0a3e9f9444db0df10bf9b294cabbbc36469264febe8b57173a8a7"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "1c35cd3fc90d49ec0b369924ad85905be05d8fde2499be7f769f6847f008c0c8"
 
