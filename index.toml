@@ -164,6 +164,11 @@ hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "c21e5c7c86e20d26b9936224db71c94558049000dbf2481f3f1649a62b41f2a1"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
 metafile = true
