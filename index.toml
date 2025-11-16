@@ -94,11 +94,6 @@ hash = "bdca3c9a098de3c08f996b214cf10ece27351f5f7871c30ff826a2f404daba33"
 metafile = true
 
 [[files]]
-file = "mods/justenoughbook.pw.toml"
-hash = "930e0679ed773d180a750de21554c39030aabeabb5c49fb98fd1d17819aa1269"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
 metafile = true
