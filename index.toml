@@ -79,6 +79,11 @@ hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
 metafile = true
 
 [[files]]
+file = "mods/fuji.pw.toml"
+hash = "2f54900f945ec85e7647cb04f052daab7bb63ffbac9310b176e95d999a1be90e"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "0d0f7c8bec24c453c31d15c05418f15ba48b4576a327510c315eae81fa5de9b0"
 metafile = true
@@ -91,6 +96,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "bdca3c9a098de3c08f996b214cf10ece27351f5f7871c30ff826a2f404daba33"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "1031fc249666fd4c19555037df86d9aa3c3c7378733b594cf4207b3e606e8e55"
 metafile = true
 
 [[files]]
